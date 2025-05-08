@@ -1,4 +1,4 @@
-package com.algacomments.moderation;
+package com.moderation;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

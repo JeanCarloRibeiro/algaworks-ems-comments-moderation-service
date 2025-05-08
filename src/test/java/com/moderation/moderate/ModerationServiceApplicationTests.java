@@ -1,4 +1,4 @@
-package com.algacomments.moderation;
+package com.moderation.moderate;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
